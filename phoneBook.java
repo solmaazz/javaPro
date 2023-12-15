@@ -52,10 +52,6 @@ public class phoneBook {
                 default:
                     System.out.println(" *** Please choose one of the values 1, 2 or 3 ***");
             }
-
-
-
-
         }
     }
 }
